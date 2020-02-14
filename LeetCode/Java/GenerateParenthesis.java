@@ -1,3 +1,7 @@
+package LeetCode.Java;
+
+import java.util.*;
+
 class Solution {
      public List<String> generateParenthesis(int n) {
         List<String> list = new ArrayList<String>();
