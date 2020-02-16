@@ -1,3 +1,5 @@
+package LeetCode.Java;
+
 import java.util.*;
 
 class Solution {
