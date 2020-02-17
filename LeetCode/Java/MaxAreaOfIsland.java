@@ -1,7 +1,5 @@
 package LeetCode.Java;
 
-import java.util.*;
-
 class Solution {
     public int maxAreaOfIsland(int[][] grid) {
         int[][] visited = new int[grid.length][grid[0].length];
